@@ -1,6 +1,6 @@
 #pragma once
 
-#include "afxwin.h"
+
 // camera ¶Ô»°¿ò
 #pragma once
 #include "afxwin.h"
