@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  测试Dlg.cpp
+g:\测试1.3\测试\测试dlg.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\测试1.3\测试\测试dlg.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\测试1.3\测试\测试dlg.cpp(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\测试1.3\测试\测试dlg.cpp(215): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+g:\测试1.3\测试\测试dlg.cpp(222): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+g:\测试1.3\测试\测试dlg.cpp(228): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  测试.cpp
+  speaker.cpp
+g:\测试1.3\测试\speaker.cpp(88): warning C4244: “初始化”: 从“double”转换到“DWORD”，可能丢失数据
+  ping.cpp
+g:\测试1.3\测试\ping.cpp(76): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: 参见“gethostbyname”的声明
+g:\测试1.3\测试\ping.cpp(83): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+g:\测试1.3\测试\ping.cpp(108): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  MicTest.cpp
+g:\测试1.3\测试\mictest.cpp(182): warning C4244: “初始化”: 从“double”转换到“DWORD”，可能丢失数据
+  internet.cpp
+  conclusion.cpp
+  camera_change.cpp
+  正在生成代码...
+  测试.vcxproj -> G:\测试1.3\Debug\测试.exe
+  测试.vcxproj -> G:\测试1.3\Debug\测试.pdb (Partial PDB)
